@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rizwan Khan
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning java and datastructure
 - 💞️ I’m currently pursuing my BTech in computer Science in SVIT
 
 <!---
